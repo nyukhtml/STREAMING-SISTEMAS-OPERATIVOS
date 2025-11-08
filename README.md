@@ -2,7 +2,7 @@
 
 -GRUPO 1-
 
-El siguiente es un royecto desarrollado para el curso de Sistemas Operativos en la Universidad Privada del Norte, cuyo objetivo es implementar un sistema de streaming de videos utilizando Rubber Ducky y una interfaz web en HTML.
+El siguiente es un proyecto desarrollado para el curso de Sistemas Operativos en la Universidad Privada del Norte, cuyo objetivo es implementar un sistema de streaming de videos utilizando Rubber Ducky y una interfaz web en HTML.
 
 _Descripción del proyecto_
 
